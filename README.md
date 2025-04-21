@@ -1,5 +1,3 @@
----
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Cheng-Prusoff equation](#cheng-prusoff-equation)
